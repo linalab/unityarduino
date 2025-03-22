@@ -2,13 +2,13 @@
 desde un sensor analógico a Unity
 utilizando la librería Cereal-io
 https://github.com/bernatGene/cereal-io*/
+
 // Arduino code
 #include "Cereal.h"
 Cereal cereal(9600);
 float valor;
 
 void setup() {
-  // put your setup code here, to run once:
   cereal.begin();
   pinMode(A0, INPUT);
 }
