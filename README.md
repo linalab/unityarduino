@@ -1,6 +1,8 @@
 # unityarduino
 
-Using Cereal-IO library to communications between unity and arduino
+Using [Cereal-IO library](https://github.com/bernatGene/cereal-io) to communications between Unity and Arduino
+examples by Lina Bautista and Citlali Hernández
+
 
 Arduino: 
 
