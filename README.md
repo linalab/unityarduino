@@ -1,4 +1,4 @@
-# unityarduino
+# Unity-Arduino Cereal Conversations
 
 Using [Cereal-IO library](https://github.com/bernatGene/cereal-io) to communications between Unity and Arduino
 examples by Lina Bautista and Citlali Hernández
