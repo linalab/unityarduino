@@ -1,7 +1,10 @@
 # Unity-Arduino Cereal Conversations
 
-Using [Cereal-IO library](https://github.com/bernatGene/cereal-io) to communications between Unity and Arduino
-examples by Lina Bautista and Citlali Hernández
+In this repository we use the [Cereal-IO library](https://github.com/bernatGene/cereal-io) to communicate Unity and Arduino. 
+The library uses the serial communication protocol in a friendly manner.
+
+In this repository you will find examples by Lina Bautista and Citlali Hernández, 
+for our Playful Interaction classes at Elisava, School of Design & Engineering, 2025.
 
 
 Arduino: 
